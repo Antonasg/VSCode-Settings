@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite the default settings
+{
+	// Controls the rendering size of tabs in characters. If set to auto, the value will be guessed based on the opened file.
+	"editor.tabSize": "4"
+}
